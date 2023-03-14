@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "chrome-extension-file-merge",
+  "description": "chrome-extension-file-merge",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "host_permissions": ["<all_urls>"]
+}
